@@ -1,0 +1,5 @@
+TuEsAnOdnsZ2Aeh7unQ5wWXC7EtMP4FnQ6EFjh5L
+
+https://api.nasa.gov/neo/rest/v1/feed?api_key=TuEsAnOdnsZ2Aeh7unQ5wWXC7EtMP4FnQ6EFjh5L
+
+https://virtualsky.lco.global/embed/index.html?longitude=${longitude}&latitude=${latitude}&constellations=true&constellationlabels=true&showstarlabels=true&gridlines_az=true&live=true
